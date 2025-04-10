@@ -16,6 +16,7 @@
 * [“HarmonyOS NEXT+AI大模型打造智能助手APP(仓颉版)”实战课程已上线](https://waylau.com/develop-native-harmonyos-ai-assistant-with-cangjie-video/)
 * [仓颉编程语言还能这么玩？HarmonyOS NEXT+AI大模型打造智能助手APP](https://waylau.com/develop-native-harmonyos-ai-assistant-with-cangjie/)
 * [Model Context Protocol（MCP）简介](https://waylau.com/model-context-rotocol-introduction/)
+* [科技巨头加倍押注生成式 AI](https://www.imooc.com/article/380101)
 
 ## Samples 示例
 
