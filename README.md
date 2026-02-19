@@ -17,6 +17,7 @@
 * [仓颉编程语言还能这么玩？HarmonyOS NEXT+AI大模型打造智能助手APP](https://waylau.com/develop-native-harmonyos-ai-assistant-with-cangjie/)
 * [Model Context Protocol（MCP）简介](https://waylau.com/model-context-rotocol-introduction/)
 * [科技巨头加倍押注生成式 AI](https://www.imooc.com/article/380101)
+* [ZeroClaw性能逆天！或是OpenClaw最佳替代](https://developer.huawei.com/consumer/cn/forum/topic/0201206819736168101?fid=23)
 
 ## Samples 示例
 
