@@ -18,6 +18,7 @@
 * [Model Context Protocol（MCP）简介](https://waylau.com/model-context-rotocol-introduction/)
 * [科技巨头加倍押注生成式 AI](https://www.imooc.com/article/380101)
 * [ZeroClaw性能逆天！或是OpenClaw最佳替代](https://developer.huawei.com/consumer/cn/forum/topic/0201206819736168101?fid=23)
+* [从OpenClaw到NullClaw，极致轻量Claw新成员来了](https://mp.weixin.qq.com/s/7k_ulryopYd5IaNKys2nYQ)
 
 ## Samples 示例
 
