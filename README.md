@@ -19,6 +19,10 @@
 * [科技巨头加倍押注生成式 AI](https://www.imooc.com/article/380101)
 * [ZeroClaw性能逆天！或是OpenClaw最佳替代](https://developer.huawei.com/consumer/cn/forum/topic/0201206819736168101?fid=23)
 * [从OpenClaw到NullClaw，极致轻量Claw新成员来了](https://mp.weixin.qq.com/s/7k_ulryopYd5IaNKys2nYQ)
+* [“Java+AI全栈工程师”解锁高薪赛道，做AI时代的技术掌舵者](https://developer.huawei.com/consumer/cn/forum/topic/0203209408161911444?fid=23)
+* [“Java+AI全栈工程师”完整技术清单](https://developer.huawei.com/consumer/cn/forum/topic/0208209813125009653?fid=23)
+
+
 
 ## Samples 示例
 
