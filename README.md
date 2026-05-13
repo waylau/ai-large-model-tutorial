@@ -21,6 +21,9 @@
 * [从OpenClaw到NullClaw，极致轻量Claw新成员来了](https://mp.weixin.qq.com/s/7k_ulryopYd5IaNKys2nYQ)
 * [“Java+AI全栈工程师”解锁高薪赛道，做AI时代的技术掌舵者](https://developer.huawei.com/consumer/cn/forum/topic/0203209408161911444?fid=23)
 * [“Java+AI全栈工程师”完整技术清单](https://developer.huawei.com/consumer/cn/forum/topic/0208209813125009653?fid=23)
+* [Harness Engineering让AI项目工程化](https://www.imooc.com/article/390450)
+* [“Java+AI全栈工程师”问答01：Spring MVC登录页面错误提示](https://www.imooc.com/article/392149)
+* [“Java+AI全栈工程师”问答02：Spring Boot 自动配置原理](https://www.imooc.com/article/392344)
 
 
 
