@@ -24,6 +24,9 @@
 * [Harness Engineering让AI项目工程化](https://waylau.com/about-harness-engineering/)
 * [“Java+AI全栈工程师”问答01：Spring MVC登录页面错误提示](https://www.imooc.com/article/392149)
 * [“Java+AI全栈工程师”问答02：Spring Boot 自动配置原理](https://www.imooc.com/article/392344)
+* [《Spring AI开发从入门到实践》简介](https://waylau.com/about-spring-ai-tutorial-book/)
+* [人工智能发展与开发范式变革](https://www.imooc.com/article/399875)
+* [什么是Spring AI](https://www.imooc.com/article/400148)
 
 
 
@@ -46,6 +49,17 @@
 书中所有示例源码，移步至<https://github.com/waylau/ai-large-model-tutorial>的 `samples` 目录下。
 
 
+## Book 配套书籍、课程
+
+
+如果你喜欢本开源书，也欢迎支持下该书的正式出版物，实体店及各大网店有售。
+
+* [HarmonyOS NEXT+AI大模型打造智能助手APP(仓颉版)](https://coding.imooc.com/class/927.html)（视频）
+* [HarmonyOS 6 AI应用开发](https://edu.51cto.com/course/39601.html)（视频）
+* [Java+AI全栈工程师](https://class.imooc.com/sale/javaaifullstack)（视频）
+* [《Spring AI开发从入门到实践》](https://waylau.com/about-harmonyos-mobile-application-development-book)（北京大学出版社）
+  * [京东](https://item.jd.com/15534218.html)
+  * [当当](http://product.dangdang.com/30120316.html)
 
 ## Issue 意见、建议
 
