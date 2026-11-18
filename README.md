@@ -27,7 +27,7 @@
 * [《Spring AI开发从入门到实践》简介](https://waylau.com/about-spring-ai-tutorial-book/)
 * [人工智能发展与开发范式变革](https://www.imooc.com/article/399875)
 * [什么是Spring AI](https://www.imooc.com/article/400148)
-
+* [Spring AI的核心价值与设计理念](https://developer.huawei.com/consumer/cn/forum/topic/0207230393018952267)
 
 
 ## Samples 示例
